@@ -1,0 +1,5 @@
+{"premise": "A young man dressed in black dress clothes lies down with his head resting in the lap of an older man in plain clothes.", "hypothesis": "One man is not dressed up for a night out while the other is not.", "label": 1}
+{"premise": "A woman with an umbrella listens on a mobile phone on the street in front of a graffiti-tagged wall.", "hypothesis": "A woman is not calling for a cab so she wont have to walk in the rain.", "label": 0}
+{"premise": "A man with a white shirt and blue jeans are skating on a skating device.", "hypothesis": "The man does not have never skated before.", "label": 1}
+{"premise": "A large black dog and a small brown dog are playing in the house.", "hypothesis": "The dogs are not having a play date and don't live together.", "label": 1}
+{"premise": "An old man wrapped in a gray cloth sitting against a wall.", "hypothesis": "An old man does not have to lye down in bed, as he isn't feeling well.", "label": 0}
