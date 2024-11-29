@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"request": "launch",
+	"program": "${file}",
+	"console": "integratedTerminal",
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"args": ["--do_eval", 
+				"--task nli", 
+				"--dataset snli",
+				" --model ./trained_model/",
+				" --output_dir ./eval_output/\fp-dataset-artifacts"
+				]
+	}
+}

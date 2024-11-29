@@ -1,0 +1,198 @@
+premise	hypothesis
+A young man in a green sweatshirt holds a young boy with a blue backpack and a yellow sweatshirt in front of a run-down building.	A man is holding a young boy.
+Two white-haired women, both wearing hats, play saxophones while standing in front of a pair of landscape paintings.	Two women make noise.
+An older man is walking in a large grassy area with a small plane in the background about to land.	A person is outside.
+A girl dressed in a pink shirt, jeans, and flip-flops sitting down playing with a lollipop machine.	A person in a shirt
+The band prepares for the next song.	There are multiple people present.
+toddlers playing with toys.	There is at least two children.
+An elderly man sleeping in a outdoor chair while another woman sits next to him.	Two people are outside.
+A person performing a snowboarding trick on a high mountain.	A human being is snowboarding and doing tricks.
+A man lies in an alley next to two plastic bags, wearing one shoe and no shirt.	A man lies near an alley.
+A lady is looking at ice cream in a refrigerator.	A lady indoors.
+A young boy showing off a orange and white striped costume with a orange and white joker hat.	The boy is under the age of 18.
+A man pulls a bicycle-driven cart through a city alley.	A man is in an urban location.
+A cleaning women looking into a mall trashcan	The woman is cleaning.
+Two people are looking at something in New York City.	Two people looking at New York.
+At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.	A crowd is in front of a camera
+Man walking in front of Queen and Portland Lofts and Condominiums.	A person is walking outside.
+The boy jumps into the blue pool.	There is a boy outside.
+A youngster straddles a small makeshift bench while his companion plays in the doorway nearby.	A kid straddles a bench
+A man, dressed in a green shirt with black pants, is transporting luggage strapped to a wheelbarrow, down a cobblestone road.	The man is traveling.
+Beautiful young dancer performing dressed in white and silver performs an acrobatic, ballet, hula-hoop, dance routine while 4 female observers look on.	The young dancers are performing in front of people.
+A young male child, wearing khaki pants and a red striped polo shirt, sitting on a steel slide in a public playground.	A young child playing outdoors.
+Skiiers are walking through the snow near the mountains.	There are people and animals in the snow.
+Two men stand in a brightly colored alley.	Two men are standing near each other.
+several people standing below a clock tower with two clock faces.	several people are next to a building
+A group of people, men, women and children gathered around a table stacked with merchandise.	There are products on the furniture.
+A girl jumping on pavement.	A girl outside
+A girl in a striped black and white sweater holds on to her friend who is bent over wearing a hooded black sweater and torn blue jeans.	The girl is wearing jeans.
+Three middle-age women are on a stage, one singing and the other two cheerleading in blue uniforms.	The older women are singing.
+A single file line of children walk in front of a building.	Children in the open.
+Older lady checking out her goods at the check-out counter.	A woman is out shopping.
+A group of people sit on benches at a park outside a building.	The people sit together.
+Semi-pro martial artist practices his most powerful moves.	The martial artist has been trained.
+A group of people are standing on a platform and waiting for the subway train.	People gathering in a group
+A man in a black shirt holding cloth next to a wooded structure as people walk around it.	A man is holding something near some trees as people pass by.
+A blond woman is holding 2 golf balls while reaching down into a golf hole.	The blonde woman is playing golf.
+A girl in a pink shirt tries to dump a bucket of water on another girl.	A girl wants to get another girl wet.
+A group at an outdoor party includes a man wearing camouflage pants with neon orange boots and suspenders.	The group is wearing bright clothing.
+A woman dressed in a blue long-sleeved shirt and wearing a hairnet.	The woman has something on her head.
+A woman huge a fluffy white dog.	The dog is large
+A boy in a baseball cap jumps over a flight of stairs.	A guy inside.
+A woman in a headscarf and a boy wearing blue look to the right while sitting against a wall.	The woman and the boy are sitting near a wall and each other
+Competitive bikers in an inside race cross a line with one biker in blue and white raising his arm.	A race between competitive bikers on an inside track begins as a biker raises his arm.
+A little girl is walking over a path of numbers.	The girl is outside.
+A man with wine near a Christmas tree.	It is the holiday season.
+A worried blond-haired baby is sitting inside a large, shiny metal cooking pot that is on top of an electric stove.	A baby being cooked on the stove.
+A man and a woman are shopping at a large hardware warehouse store.	A man and woman are outside of a store.
+From afar, a person walks down a path through a brown field.	A person is on a walk.
+A man in a red shirt is sitting at his desk with one leg on the desk, using a computer with two screens set up side by side.	A male is not sitting outside programming his computer.
+Teens doing there best at a jump photo.	Girls are in mid-air.
+A determined crosscountry runner.	A runner transcends his psychial  boundaries
+A man selling or buying oranges on a cart in an outside supermarket.	A man is conducting business outside of a store.
+A person in a green canoe paddles down rapids carrying oars and wearing an orange and black top.	a person on a river paddles a canoe
+One man watching another man operate heavy machinery doing road construction.	Two workers are outside doing construction work.
+A man is carrying a child while holding a red and blue umbrella.	Two humans are outside.
+A man in a black jacket is talking with two blond women as they stand near a car in the sunshine.	It is a nice day outside.
+Seated street musician in black derby plays wind instrument with no one listening or watching.	The man sitting down is a musician.
+A welder is working outside by some concrete ruble	A person works on some concrete
+a little girl sitting in a seat.	She is in a chair.
+Two men dressed in identical white jackets with green numbers and logo are studying something on a cellphone with great interest, while other men, identically dressed and standing in a group with these two, are interested in something to their right.	Three men in matching jackets are standing together, one looking at a nearby person, the other two looking at a phone.
+A woman is sitting in a chair filling out some paperwork.	A woman looks over some forms.
+A girls sports team putting their hands in a circle to do a bonding cheer.	Cheerleaders doing a cheer
+A group of people look over ledge.	The group of people are looking up.
+A person in a red hat with a huge backpack going hiking.	The person is in a hat has a big bag while walking on a tough terrain.
+A group of teenagers are standing in front of some tents, most of them are holding skateboards.	A group of teenagers are holding something
+One man is shirtless while the other two men work on construction	Three men are outdoors.
+A man running a marathon talks to his friend.	A man and his friend are running a marathon together.
+Three Oklahoma Sooners playing football against another team, one of the sooners with the ball in their possession.	Rival college football players are playing a football game.
+The man and woman are both smiling.	A guy and a lady are standing near each other.
+A motorcycle races.	A bike is going fast.
+A man is cooking pies in the oven.	The man cooking has oven mits on.
+It's Summer time and two girls play with bubbles near a boat dock.	It is warm outside.
+A busy kitchen preparing for the afternoon rush.	They are cooking.
+A young woman with a ponytail and her back to the camera is taking a picture of what seems to be some sort of procession.	A girl is taking pictures of a parade.
+A Asian man in a red and yellow uniform diving for the birdie in a game	a person in a uniform does something
+A group of men are playing basketball as the sun sets.	There are two men with a basketball.
+A man drawing pictures of individuals sits under an umbrella with previous works such as justin beiber around him.	an artist works
+A man in a dark suit talks with a middle-aged man and woman on a stage in front of a large logo of the letter "D" with the numeral five within it.	A couple of people are sitting in a room.
+A black girl and white girl walking hand and hand in a busy area of a city with a public train in the background.	Some kids take public transit.
+Man with short hair moves wooden structure.	The man moves the wooden post.
+On a sunny day, in a lush, green field, one small girl inspects a rock while her friend goes off in another direction.	A girl watches something
+Stretching before roller derby.	Some people are stretching before a competition.
+Two small children are gathering water from a large container.	Two kids are getting a drink of water.
+A man dressed in a bronze suit, wearing bronze colored glasses, is accompanied with a bronze old fashion movie camera, motions taking a movie.	A man is filming a movie.
+A male hiker wearing a brown hat is standing next to a triangular monument on the top of a mountain.	A man exercises outdoors.
+A man and a female doing some type of martial arts.	Two people spar using some form of martial arts.
+A woman dressed in a black sweater, blue jeans, and golden high heel boots is looking a merchandise in a storefront window.	A woman is standing in store.
+A man is jumping unto his filthy bed.	The man is dirty.
+A West Virginia university women's basketball team, officials, and a small gathering of fans are in a West Virginia arena.	women are playing basketball
+A woman lies on a bed with a red, orange, and blue striped comforter crumpled up next to her.	A woman wakes up.
+A group of people prepare hot air balloons for takeoff.	There are hot air balloons on the ground and air.
+Group yoga class exercising.	A group of people holding various positions for a period of time.
+A black girl and white girl walking hand and hand in a busy area of a city with a public train in the background.	Two girls walk through downtown.
+A young man is caught in midair while doing a skateboard trick in an urban environment.	The man is upside down in the air.
+A man with glasses and a Hawaiian shirt is standing next to a dog while another man with a blue hat looks at them from the back.	Two men are following the actions of a dog, one stands next to the dog.
+A man in an orange vest is waiting at a train station.	A man is sitting outside a train station.
+A man and a woman is walking with a dog across a beach	There is a couple.
+an middle eastern man in a white robe is sitting on a wooden bench with his shoes off.	a muslim sits on a bench
+People crowded around toys on a table.	People are looking at something.
+Three men stand on the beach, fully clothed.	Three men by the ocean.
+A man in a hat stands in front of a brick wall.	A man in a hat is outside.
+A woman wearing a brown jacket and brown pants is walking her two dogs along the beach as they follow another person.	A man and women take their dogs for a walk on the beach.
+A couple in bathing suits walk on a beach.	The couple are together
+Several people prepare their stalls that consist of fish, vegetables and fruits for the public eye.	a bunch of people wait in stalls
+There is a woman throwing daggers at a target, which is a carrot.	A woman with athletic ability is targeting carrots with blades.
+A construction man appears to be staring at a device.	A laborer looks at his tools.
+Four men wearing orange jackets and red hats, walking near a wavy trimmed bush.	The bushes are getting trimmed by guys.
+Two men are trying to kick each other.	Two men are fighting.
+A young blond girl with a red and blue mark on her cheek.	a young girl with a bruise on her face
+Man dog sledding with his child in the icy snow.	Icy snow slowing down a man's dog sled.
+A man and a woman are walking in the middle of a street.	People are crossing the street.
+A woman holding a red cup with a straw in it sits in front of a man and a woman looking at a book.	People read.
+Two men working on something in a shop.	Two men are working on the same thing.
+A black dog and a goose swim in the water.	The goose has something in its mouth.
+Two women are looking at bread in packages on a table.	The women are sitting at a table.
+Closeup of an elderly woman walking across a street with her male companion.	A man helps a woman cross the street.
+A volleyball player hitting a ball on the beach.	A volleyball player spikes a ball on the beach.
+Two men are standing in front of musical mixing equipment.	There are people indoors.
+A group of young people with instruments are on stage.	People are playing music.
+There is a baseball player in a yellow shirt running midfield.	The baseball player is playing offense.
+The front of the cafe must remain free of trash if customers are to be enticed to enter.	The doorway to the cafe is littered with trash and debris.
+A woman in red shorts is writing on a tablet.	A woman is taking notes.
+Woman helps bride into dress.	A woman zips a wedding dress.
+A poor family is leaving their home with only a few belongings.	A family has been evicted.
+The person and the dog are sitting on the yellow canoe.	The canoe is in the water.
+The couple are wearing glasses intended for 3D movies.	A couple is going to watch a 3D movie.
+A group of men are playing basketball as the sun sets.	A couple men are on a basketball court.
+Two men and one woman are performing music on a stage.	Musicians are spreading their passion on stage
+Boy jumps in desert while others watch and take photo.	A boy is acting for a group of people.
+Two German sheperds snarling at each other.	Two animals are being held back by leashes.
+A man and woman running side by side down a tree-lined street casting long shadows.	A couple goes on a jog together.
+A jockey in blue gallops a chestnut horse on a dirt track past a wooden fence.	A jockey races his horse
+Group sweeping away leakage while bystanders look on.	A group cleans up after a major leak.
+A white-haired man in a white shirt looks at information in an orange-red binder.	A man is reading documents in a binder.
+A gentleman carrying the 2012 Olympic torch being follow by a car on a people lined street.	a man carries the 2012 olympic torch down a street while a person in a car tries to pass him
+An old man wrapped in a gray cloth sitting against a wall.	An old man is outdoors.
+Two people with bags next to a street at night.	The people are together
+Two black dogs on a snow covered ground, the ground appears blue in the background, one dog is jumping with feet off the ground.	The temperature is below zero.
+Riot police are standing in the background while a young man with a red scarf covering his face is walking.	there was a riot
+People are walking into a store.	People are going shopping.
+A woman wearing a pink dress with gold around the midsection is standing in between two rows of people at a banquet.	A women in in a room that has food.
+A lady with a purse on his shoulder reaching upward and putting a crown in a statue's hand.	There is a lady putting a crown on her statue.
+A man poses for a photo in front of a Chinese building by jumping.	The man has experience in taking photos.
+Middle-aged man in casual clothes looking off-camera.	The man's face is in profile.
+A woman is cleaning an outdoor pool.	The pool is being vacuumed by the woman.
+A blond man stands next to a cement mixer with mountains in the background.	A construction worker stands outside in front of some mountains.
+Three women and one man are sitting on a ledge facing away towards a large window.	A group of people are on a balcony.
+Four people in emergency suits and helmets spray water from behind a cement wall.	A emergency staff tends to a situation.
+A little girl in a red and white shirt stands next to some caricatures of celebrities at an art fair.	a kid stands near modern art
+Two men trying to hoist themselves up from the water on to a walkway made of tires.	two men are helping each other
+This mother and her daughter and granddaughter are having car trouble, and the poor little girl looks hot out in the heat.	The mother, daughter, and granddaughter are out in the middle of the day.
+Number 916 is hoping that he is going to win the race.	A person is betting that he will win  the race.
+A skater goes through a course.	A skater is outside
+A child is looking out of a door.	The door is open.
+A man is standing in the aisle of a grocery store and staring at the cereal selection.	A man is selecting cereal in a grocery store.
+A woman dressed in black looking perplexed and a woman in a red jacket offering to help her.	A woman is scowling.
+A young man moving aside to let a young woman pass by.	A man checks out a woman who passes him.
+Two little girls play in a fountain.	The two girls are less than 5 years old
+A crowd of interested people surrounds a man swinging a sledgehammer.	A man shows a group of people how to use a sledgehammer.
+A black dog is drinking next to a brown and white dog that is looking at an orange ball in the lake, whilst a horse and rider passes behind.	Two short haired dogs of different colors drinking by a lake.
+A man in a t-shirt is stirring something in a pot which is on a counter near a microwave oven.	A man is standing
+Inside the igloo, the young man gets ready for his overnight stay.	The young man is resting.
+Two guys are wearing uniforms who are running in the grass.	Two guys  in uniforms are playing a sport on the grass
+A lady looks to her right and holds a mini camera.	A lady is taking a picture.
+The tiny girl dressed in a butterfly ballet costume, waves her wand near a nutcracker statue.	A small girl dances in the nutcracker.
+A man in a large crowd converses with his friends.	A man is giving a speech to his peers.
+A man wearing an orange hard hat is being lowered down the side of a building.	The man is working on the building.
+Red objects fall on men standing behind a red wall.	The objects are initially higher than the men.
+a man scales the large rock.	The man is using climbing equipment to scale a rock.
+a woman siting in a black polka dot bathing suit top, and blue high waist underwear bottoms sitting in the sidewalk with three bags and a green bottle.	A woman looks odd sitting on the sidewalk with several bags and a bottle while wearing a bathing suit.
+A woman in a pink shirt is painting the last two stars on a painting of the American flag.	The woman is using different colors
+An older gentleman speaking at a podium.	A man giving a speech
+Two children standing in the grass being sprayed by a hose.	Two children are playing with water in the yard
+A child, wearing a tie, jumps off steps.	A child is playing.
+Several people mill around a sidewalk in front of a building looking as police put up crime scene tape.	Several people saw a crime committed.
+Two bikers a riding along a street in a marathon as the passersby clap for them.	People cheer on the bikers.
+An older man dressed in blue is sitting on the sidewalk surrounded by tools to polish shoes.	There were tools to shine something.
+A girl climbing a rock face.	A girl climbing a rock face outside.
+A street vendor selling his art.	An artist is showing off his creations.
+Child squirting paint onto a piece of spin-art.	The child has paint all over their hands.
+a man in a red shirt looking at a woman with red-hair	A person is leering at another.
+A man wearing a black balloon animal shirt is making a circle out of balloons.	The man knows how to make animals out of balloons.
+A group of Chinese people are relaxing in the water.	A group of Chinese people at standing in water.
+A young girl washes an automobile.	The girl is outside.
+A young boy wearing safety swimming gear and goggles is in a pool.	A child wears water wings while swimming.
+A man with a "Backyard Babies" has a black box in front of him and a crowd on chairs behind him.	The man is being watched.
+Three children play on the grass under a multicolored umbrella and wearing rainbow colored outfits.	Children celebrate color.
+An asian man wearing a blue shirt is kicking up water.	The asian man is moving through a puddle.
+A girl is posing outside.	A girl is taking a picture.
+Two teen girls relax on a black futon.	Two young girls are sitting inside.
+Though frail looking, this turbaned woman is able to carry a large pot and a bound bundle of long sticks.	An old person carrying a pot
+An Asian man is cooking food.	The man is in a kitchen.
+A young woman and some friends at a party.	Friends are enjoying their time together.
+A man and woman are sitting at a table in front of a sign that reads IL PORTO and two wine bottles and two wineglasses are on the table.	Two people participate in a wine tasting.
+A puppet show consisting of humans standing on tall sticks.	The puppets are pulling by people.
+A balding man is getting his shoes cleaned on a street corner.	An old man getting his shoes shined.
+An old man is sitting down in the street.	The old man takes a rest.
+Two black little boys hanging over an upside down bicycle, one examining the pedal.	the children are outside.

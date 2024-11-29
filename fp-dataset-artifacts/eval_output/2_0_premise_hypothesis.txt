@@ -1,0 +1,69 @@
+premise	hypothesis
+The couple are wearing glasses intended for 3D movies.	A couple are wearing sunglasses.
+Four children playing at a preschool, one looking out the window, one is running, and the other two are playing with wooden blocks.	The children are looking out a window.
+Man waters plants as woman in orange shirt walks by.	The man is near water.
+There are three men in this picture, two are on motorbikes, one of the men has a large piece of furniture on the back of his bike, the other is about to be handed a piece of paper by a man in a white shirt.	Three men are on motorcycles.
+A boy in a blue shirt looks away from the camera as a girl in a pink and orange bathing suit stares into the camera in front of an RV.	A boy looks into the camera while a girl looks away from he camera.
+A man with a blue and gray shirt is standing in front of a metal fence while taking a picture of the landscape.	A man gets his picture taken.
+Several young people standing next to ten-speed bikes.	Several young people are standing next to motorcycles.
+The side of a building next to a church is painted with a brightly colored Coca-Cola sign.	There is a Coca-Cola sign on a church next to a building.
+An athlete executes a judo throw while a judge watches.	The athlete is performing a karate toss.
+A group of women observe as two men attempt to fix their bikes.	The women fix bikes as men watch.
+Men and women in swimsuits hangout on rocks above water.	The rocks hangout above the water.
+A wrestler in purple curls up in a ball while one in blue celebrates.	The wrestler in purple celebrates.
+a woman in green stands with her hands on her hips.	A woman is raising her hands up.
+A man in an orange construction vest walks in a parade with a child atop his shoulders, carry balloons.	The has two legs.
+Dog standing with 1 foot up in a large field.	The dog is standing on one leg.
+A woman is looking at a pamphlet talking to someone, while a guy takes photos in the background.	Three people take pictures.
+A band playing with fans watching.	A band watches the fans play
+A man in a blue shirt climbs a rock while people behind him in red shirts watch.	A man watches others climbing a rock.
+A gathering of young African males under a thatched roof.	A group of men are standing on a roof.
+There is a street with buildings and one man in black walking on the side of the road.	The buildings are walking on the street.
+The horses pull the carriage, holding people and a dog, through the rain.	Horses ride in a carriage pulled by a dog.
+A young man is pushing a lawn mower to mow the grass.	A guy rides a lawn mower in the grass.
+A man in a gray sweatshirt and blue jeans is pulling on a rope while a guy in a white shirt and black jeans watches him.	the two men were pulling on the rope
+A man in an apron sits at a table in front of a restaurant, while another man crosses the street with a purple gift bag and rolling luggage.	Two men pull luggage across the street, while wearing aprons.
+A reson is in a blue canoe in front of some plants.	a blue canoe inside of some plants
+Two children lined up outside in a grassy field with their arms stretched out to the sides.	Two kids were arm in arm in a field.
+A young man trying to buy a car from his dealer after his old car was towed away by police.	A person renting a vehicle.
+A man is standing in front of a building holding heart shaped balloons and a woman is crossing the street.	Someone is holding something heavy outside.
+Two men sitting on a subway are reading, with coats and scarves on, but have seemed to have lost their pants.	The men are wearing pants.
+A man parasailing in rough waters.	A man is drowining.
+A man in a blue polo raises his wineglass to toast.	A man drinks from his wineglass.
+A photographer snaps a midair action shot of a snowboarder.	The midair shot snaps at a boarder of snow.
+Young friends in a park relaxing and enjoying conversation with each other.	The park is conversing with the young others.
+Two girls wading through hip deep mud.	The two girls are in deep water.
+A woman holds her child out of a red window, next to a Color TV sign.	The TV holds a woman who holds a child.
+Red objects fall on men standing behind a red wall.	The men are higher than the wall.
+Four people, One male in a blue shirt and slacks with three females, one in pink, one in blue, and the other with a white shirt and blue blouse, in line to enter a yellow school bus, while a female in pink hold paper is on the phone.	Four people, One male in a blue shirt and slacks with three females, one in pink, one in blue, and the other with a blue shirt and blue blouse, in line to enter a yellow school bus, while a female in pink hold paper is on the phone.
+Big hairy dog chews on a bone while lying on a furry toy.	The dog is laying on a pointy object
+A man with a beard skateboarding and a boy with a blue and black backpack riding a green bike in the background.	There is a kid skateboarding and a bearded man on a bike.
+Two black little boys hanging over an upside down bicycle, one examining the pedal.	Someone is riding a bike.
+A man wearing large snowshoes runs inside of a seemingly crowded ski resort.	A man is skiing.
+One kid is running across a field carrying a football while another is close behind grabbing for his flags.	Two children run in different directions.
+Number 13 kicks a soccer ball towards the goal during children's soccer game.	A player passing the ball in a soccer game.
+A group of young women wearing black dresses stand in a row with three of them holding bouquets.	A group of women with flowers standing in a circle.
+A man in a blue shirt, khaki shorts, ball cap and white socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand.	A man in a blue shirt, khaki shorts, ball cap and blue socks and loafers walking behind a group of people walking down a stone walkway with a water bottle in his left hand.
+A woman with a crescent tattoo on her shoulder is painting an image of a face onto a wall.	A woman tattoos someone.
+bicycles stationed while a group of people socialize.	People talk near a bunch of parked motorcycles.
+Young woman celebrates getting a strike during a bowling game.	The young women is outside.
+Two children lined up outside in a grassy field with their arms stretched out to the sides.	Two kids were in a field with their arms down.
+Someone in a red and white uniform is driving a red and white motorcycle down a track with the front wheel in the air.	A man rides and ATV.
+A man wearing glasses and a dark coat looks at something to the left of the picture.	A man in a dark coat takes a photo.
+A small girl wearing a pink jacket is riding on a carousel.	The girl is moving at the speed of light.
+An elderly man sleeping in a outdoor chair while another woman sits next to him.	Two women are relaxing outside.
+Two construction workers in a truck having a conversation.	Two people are outside a truck.
+A group of people standing on a sidewalk.	There are people in road.
+A man wearing padded arm protection is being bitten by a German shepherd dog.	A man bit a dog.
+A man sits in a dingy stall which says "Sol Septu" on the sidewalk while a man poses before the stand but does not look at it.	A still sits in a dingy man which says "why" on the sidewalk while a stall poses before the man but refuses to look in it's direction.
+The wrestler in white shorts is preparing to body slam his opponent in black shorts while the referee prepares to jump in.	The boxers are pounding on each other as the ref watches.
+A man and a woman stare at the skyline.	The man and woman are staring into each others' eyes.
+A dancer in costumer performs on stage while a man watches.	the man is dancing as the woman watches
+the shadow silhouette of a woman standing near the water looking at a large attraction on the other side.	She is in the water.
+A distant person is climbing up a very sheer mountain.	The mountain is unclimbable for humans.
+A Asian man in a red and yellow uniform diving for the birdie in a game	A birdie retrieves its uniform from a person
+A man sweeping in the street.	A man is using his vaccuum to clean the street.
+It's Summer time and two girls play with bubbles near a boat dock.	They are on the boat dock.
+A man wearing a red bicycle helmet talking on a cellphone with other people in the background.	A man talks on his walky talky.
+A man is taking a scenic photo of mountains while framing the foreground with low-growth, colorful brush.	There is a person taking a close-up self portrait.
+Weekend barbecue with some fish.	Kids playing on the water
