@@ -109,8 +109,8 @@ def process_snli(input_file, output_file, spurious_append_file, only_negated = F
             
             # Add extended premise examples to the list
             extended_premise_examples.append({
-                "premise": premise, #add_spelling_error(premise, count=1), 
-                "hypothesis": add_spelling_error(hypothesis, count=1), #,hypothesis, #
+                "premise": premise, # add_spelling_error(premise, count=1), 
+                "hypothesis":  add_spelling_error(hypothesis, count=1), #hypothesis, #
                 "label": label
             })
     
@@ -124,8 +124,8 @@ def process_snli(input_file, output_file, spurious_append_file, only_negated = F
 #'''
 # Input and output file paths 
 input_snli_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\eval_output\\eval_predictions.jsonl"  # Replace with your SNLI dataset file
-output_snli_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\snli_negation_test.jsonl"
-output_snli_append_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\snli_append_test.jsonl"
+output_snli_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\for_report\\snli_negation_test.jsonl"
+output_snli_append_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\for_report\\snli_append_test.jsonl"
 
 # Ensure input file exists
 if os.path.exists(input_snli_file):

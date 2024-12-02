@@ -38,9 +38,9 @@ def correct_text(text):
 
 
 # File paths
-input_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\snli_append_test.jsonl" #"C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\eval_output\\eval_predictions.jsonl"  # Replace with your SNLI dataset file
+input_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\for_report\\snli_append_test.jsonl" #"C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\eval_output\\eval_predictions.jsonl"  # Replace with your SNLI dataset file
 
-output_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\preprocessed.jsonl"  # Replace with your SNLI dataset file
+output_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\for_report\\preprocessed.jsonl"  # Replace with your SNLI dataset file
 report_file = "C:\\Users\\gandh\\Work\\Edu\\MSAI coursework\\Course NLP\\fp\\fp-dataset-artifacts\\preprop_correction_report.jsonl"  # Replace with your SNLI dataset file
 
 
